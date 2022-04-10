@@ -1,0 +1,1 @@
+This is a repo to allow me to track previous CodeWars solutions along with any notes I make on them after seeing others' solutions.
