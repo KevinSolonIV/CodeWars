@@ -1,0 +1,1 @@
+const isPangram = (string) => 'abcdefghijklmnopqrstuvwxyz'.split('').reduce((a, e) => string.toLowerCase().includes(e) && a, true);
